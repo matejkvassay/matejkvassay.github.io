@@ -1,9 +1,9 @@
----
-layout: page
-title: Research papers
-permalink: /research_papers/
----
+<!------->
+<!--layout: page-->
+<!--title: Research papers-->
+<!--permalink: /research_papers/-->
+<!------->
 
-#### Interesting research papers
+<!--#### Interesting research papers-->
 
 
