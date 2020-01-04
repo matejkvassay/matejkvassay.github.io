@@ -1,6 +1,7 @@
 # Matej Kvassay
 ## Data Scientist
-![Drag Racing](images/profile.png#thumbnail)
+<img src="images/profile.png" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
 - Python development
 - Data analytics
 - Machine Learning
