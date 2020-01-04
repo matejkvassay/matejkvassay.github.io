@@ -7,7 +7,7 @@ permalink: /About me/
 <img src="/images/resume/profile.png" alt="profile photo" title="Me" width="20%" />
 
 ## Matej Kvaššay
-I'm Data Scientist with particular interest in Machine Learning, Cloud technologies, Python engineering and IT Business.
+I'm Data Scientist with particular interest in Machine Learning, Cloud Technologies, Python Engineering and IT Business.
 
 ----------------------------------------------------------------------------------
 
