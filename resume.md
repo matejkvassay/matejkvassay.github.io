@@ -35,6 +35,7 @@ I'm Data Scientist with particular interest in Machine Learning, Cloud Technolog
 ### Experience
 
 #### Machine Learning Researcher, Seznam.cz (2019/12 - Now)
+- Pornographic & violent image filtering for search
 - Anonymization of faces for "street view" on mapy.cz
 
 #### Research Specialist (AI & NLP), Konica Minolta (2017/06 - 2019/11)
